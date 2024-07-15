@@ -218,14 +218,14 @@
 }
 
 .feynman_img {
- position: absolute;
- left: 0px;
+  position: absolute;
+  left: 0px;
   bottom: 0px;
   width: 867px;
   height: 637px;
   z-index: 0;
 }
-  
+
 .kaufman {
   background-color: #1f1f1f;
   display: flex;
