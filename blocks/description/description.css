@@ -1,0 +1,6 @@
+.description {
+  display: flex;
+  justify-content: center;
+  /* background-color: red; */
+  padding-top: 100px;
+}
